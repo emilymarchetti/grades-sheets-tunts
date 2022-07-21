@@ -29,6 +29,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Para rodar este projeto é necessário ter instalado na sua máquina as seguintes tecnologias:
 
+- [Java](https://www.java.com/pt-BR/download/ie_manual.jsp?locale=pt_BR)
 - [JDK 1.17](https://www.oracle.com/java/technologies/downloads/)
 - [Gradle](https://gradle.org/install/)
 
